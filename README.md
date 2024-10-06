@@ -19,7 +19,7 @@
 - **Character Matching System:** Compares characters between two words and provides detailed feedback on whether they are in the correct position, present but misplaced, or absent.
 - **Binary Search Tree (BST):** The program uses a BST to efficiently store and retrieve words based on lexicographical order.
 - **Dynamic Word Management:** The system can dynamically add or remove words to/from the set of acceptable words during gameplay.
-- **Game Mode:** Multiple "matches" can be initiated where the player tries to guess a word based on comparisons, with game controls like `+nuova_partita` (new_game), `+stampa_filtrate` (print_filtered), `+inserisci_inizio` (add_at_the_beginning), and `+inserisci_fine` (add_at_the_end)
+- **Game Mode:** Multiple "matches" can be initiated where the player tries to guess a word based on comparisons, with game controls like `+nuova_partita` (new_game), `+stampa_filtrate` (print_filtered), `+inserisci_inizio` (add_at_the_beginning), and `+inserisci_fine` (add_at_the_end).
 
 ## Testing 🧪
 
@@ -33,7 +33,7 @@
 
 ## Educational Purpose 🎓
 
-This project was developed as part of the **Bachelor of Science in Computer Science Engineering** at **Politecnico di Milano ** in Milan (MI), Italy.
+This project was developed as part of the **Bachelor of Science in Computer Science Engineering** at **Politecnico di Milano** in Milan (MI), Italy. All data structures and functions/algorithms were implemented by me, fulfilling the objective of the project.
 
 ## Contributing 🙌
 
