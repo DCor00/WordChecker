@@ -12,4 +12,4 @@ This project, **WordChecker**, is owned by the author as part of their work at t
 
 If you wish to use the project for purposes outside of these conditions, please contact the author for permission.
 
-© 2024 Author and Politecnico di Milano
+© 2022 Author and Politecnico di Milano
